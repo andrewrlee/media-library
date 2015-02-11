@@ -12859,14 +12859,15 @@ function Lp(a) {
     }
   }
 }
-function Mp(a) {
-  var b = Kb(document, "series-select");
-  Lp(E(a));
-  return vc(b, "change", function() {
-    return function(b) {
-      return Lp(P.a(a, b.target.selectedIndex));
+function Mp(a, b) {
+  var c = Kb(document, "series-select");
+  up(a, null);
+  Lp(E(b));
+  return vc(c, "change", function() {
+    return function(a) {
+      return Lp(P.a(b, a.target.selectedIndex));
     };
-  }(b));
+  }(c));
 }
 function Np(a, b) {
   var c = new ip;
@@ -12892,7 +12893,7 @@ function Op(a) {
           return a.Sb();
         };
       }(p, t, n, y, B, F, a, b, c, d, e, n));
-      return s(yk.e(e)) ? Mp(yk.e(e)) : Np(p, b);
+      return s(yk.e(e)) ? Mp(p, yk.e(e)) : Np(p, b);
     };
   }(a, b, c, d, d, e);
 }
