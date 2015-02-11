@@ -24,7 +24,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2004-01-01",
-   :genres #{},
+   :genres #{"Crime"},
    :overview
    "And he looked over at the alarm clock, ticking on the chest of drawers. \"God in Heaven!\" he thought. It was half past six and the hands were quietly moving forwards, it was even later than half past, more like quarter to seven. Had the alarm clock not rung? He could see from the bed that it had been set for four o'clock as it should have been; it certainly must have rung. Yes, but was it possible to quietly sleep through that furniture-rattling noise? True, he had not slept peacefully, but probably all the more deeply because of that. What should he do now? The next train went at seven; if he were to catch that he would have to rush like mad and the collection of samples was still not packed, and he did not at all feel particularly fresh and lively. And even if he did catch the train he would not avoid his boss's anger as the office assistant would have been there to see the five o'clock train go, he would have put in his report about Gregor's not being there a long time ago. The office assistant was the boss's man, spineless, and with no understanding. What about if he reported sick? But that would be extremely strained and suspicious as in fifteen years of service Gregor had never once yet been ill. His boss would certainly come round with the doctor from the medical insurance company, accuse his parents of having a lazy son, and accept the doctor's recommendation not to make any claim as the doctor believed that no-one was ever ill but that many were workshy. And what's more, would he have been entirely wrong in this case? Gregor did in fact, apart from excessive sleepiness after sleeping for so long, feel completely well and even felt much hungrier than usual.",
    :keywords
@@ -48,7 +48,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2011-12-08",
-   :genres #{},
+   :genres #{"Comedy"},
    :overview
    "So Gregor did not go into the room, but leant against the inside of the other door which was still held bolted in place. In this way only half of his body could be seen, along with his head above it which he leant over to one side as he peered out at the others. Meanwhile the day had become much lighter; part of the endless, grey-black building on the other side of the street - which was a hospital - could be seen quite clearly with the austere and regular line of windows piercing its façade; the rain was still falling, now throwing down large, individual droplets which hit the ground one at a time. The washing up from breakfast lay on the table; there was so much of it because, for Gregor's father, breakfast was the most important meal of the day and he would stretch it out for several hours as he sat reading a number of different newspapers. On the wall exactly opposite there was photograph of Gregor when he was a lieutenant in the army, his sword in his hand and a carefree smile on his face as he called forth respect for his uniform and bearing. The door to the entrance hall was open and as the front door of the flat was also open he could see onto the landing and the stairs where they began their way down below.",
    :keywords #{"Cymraeg"},
@@ -196,7 +196,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2004-12-05",
-   :genres #{},
+   :genres #{"Adventure"},
    :overview
    "\"But Sir\", called Gregor, beside himself and forgetting all else in the excitement, \"I'll open up immediately, just a moment. I'm slightly unwell, an attack of dizziness, I haven't been able to get up. I'm still in bed now. I'm quite fresh again now, though. I'm just getting out of bed. Just a moment. Be patient! It's not quite as easy as I'd thought. I'm quite alright now, though. It's shocking, what can suddenly happen to a person! I was quite alright last night, my parents know about it, perhaps better than me, I had a small symptom of it last night already. They must have noticed it. I don't know why I didn't let you know at work! But you always think you can get over an illness without staying at home. Please, don't make my parents suffer! There's no basis for any of the accusations you're making; nobody's ever said a word to me about any of these things. Maybe you haven't read the latest contracts I sent in. I'll set off with the eight o'clock train, as well, these few hours of rest have given me strength. You don't need to wait, sir; I'll be in the office soon after you, and please be so good as to tell that to the boss and recommend me to him!\"",
    :keywords #{"Engineering"},
@@ -465,7 +465,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2009-03-09",
-   :genres #{},
+   :genres #{"Drama"},
    :overview
    "This was how Gregor received his food each day now, once in the morning while his parents and the maid were still asleep, and the second time after everyone had eaten their meal at midday as his parents would sleep for a little while then as well, and Gregor's sister would send the maid away on some errand. Gregor's father and mother certainly did not want him to starve either, but perhaps it would have been more than they could stand to have any more experience of his feeding than being told about it, and perhaps his sister wanted to spare them what distress she could as they were indeed suffering enough.",
    :keywords
@@ -637,7 +637,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2003-01-06",
-   :genres #{},
+   :genres #{"Drama" "Crime"},
    :overview
    "Although Gregor wasn't able to hear any news directly he did listen to much of what was said in the next rooms, and whenever he heard anyone speaking he would scurry straight to the appropriate door and press his whole body against it. There was seldom any conversation, especially at first, that was not about him in some way, even if only in secret. For two whole days, all the talk at every mealtime was about what they should do now; but even between meals they spoke about the same subject as there were always at least two members of the family at home - nobody wanted to be at home by themselves and it was out of the question to leave the flat entirely empty. And on the very first day the maid had fallen to her knees and begged Gregor's mother to let her go without delay. It was not very clear how much she knew of what had happened but she left within a quarter of an hour, tearfully thanking Gregor's mother for her dismissal as if she had done her an enormous service. She even swore emphatically not to tell anyone the slightest about what had happened, even though no-one had asked that of her.",
    :keywords
@@ -661,7 +661,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2008-01-11",
-   :genres #{},
+   :genres #{"Family"},
    :overview
    "Gregor soon had the opportunity to test the strength of his decisions, as early the next morning, almost before the night had ended, his sister, nearly fully dressed, opened the door from the front room and looked anxiously in. She did not see him straight away, but when she did notice him under the couch - he had to be somewhere, for God's sake, he couldn't have flown away - she was so shocked that she lost control of herself and slammed the door shut again from outside. But she seemed to regret her behaviour, as she opened the door again straight away and came in on tip-toe as if entering the room of someone seriously ill or even of a stranger. Gregor had pushed his head forward, right to the edge of the couch, and watched her. Would she notice that he had left the milk as it was, realise that it was not from any lack of hunger and bring him in some other food that was more suitable? If she didn't do it herself he would rather go hungry than draw her attention to it, although he did feel a terrible urge to rush forward from under the couch, throw himself at his sister's feet and beg her for something good to eat. However, his sister noticed the full dish immediately and looked at it and the few drops of milk splashed around it with some surprise. She immediately picked it up - using a rag, not her bare hands - and carried it out. Gregor was extremely curious as to what she would bring in its place, imagining the wildest possibilities, but he never could have guessed what his sister, in her goodness, actually did bring. In order to test his taste, she brought him a whole selection of things, all spread out on an old newspaper. There were old, half-rotten vegetables; bones from the evening meal, covered in white sauce that had gone hard; a few raisins and almonds; some cheese that Gregor had declared inedible two days before; a dry roll and some bread spread with butter and salt. As well as all that she had poured some water into the dish, which had probably been permanently set aside for Gregor's use, and placed it beside them. Then, out of consideration for Gregor's feelings, as she knew that he would not eat in front of her, she hurried out again and even turned the key in the lock so that Gregor would know he could make things as comfortable for himself as he liked. Gregor's little legs whirred, at last he could eat. What's more, his injuries must already have completely healed as he found no difficulty in moving. This amazed him, as more than a month earlier he had cut his finger slightly with a knife, he thought of how his finger had still hurt the day before yesterday. \"Am I less sensitive than I used to be, then?\", he thought, and was already sucking greedily at the cheese which had immediately, almost compellingly, attracted him much more than the other foods on the newspaper. Quickly one after another, his eyes watering with pleasure, he consumed the cheese, the vegetables and the sauce; the fresh foods, on the other hand, he didn't like at all, and even dragged the things he did want to eat a little way away from them because he couldn't stand the smell. Long after he had finished eating and lay lethargic in the same place, his sister slowly turned the key in the lock as a sign to him that he should withdraw. He was immediately startled, although he had been half asleep, and he hurried back under the couch. But he needed great self-control to stay there even for the short time that his sister was in the room, as eating so much food had rounded out his body a little and he could hardly breathe in that narrow space. Half suffocating, he watched with bulging eyes as his sister unselfconsciously took a broom and swept up the left-overs, mixing them in with the food he had not even touched at all as if it could not be used any more. She quickly dropped it all into a bin, closed it with its wooden lid, and carried everything out. She had hardly turned her back before Gregor came out again from under the couch and stretched himself.",
    :keywords #{"Architecture"},
@@ -931,7 +931,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2007-02-09",
-   :genres #{},
+   :genres #{"Romance"},
    :overview
    "It was not until it was getting dark that evening that Gregor awoke from his deep and coma-like sleep. He would have woken soon afterwards anyway even if he hadn't been disturbed, as he had had enough sleep and felt fully rested. But he had the impression that some hurried steps and the sound of the door leading into the front room being carefully shut had woken him. The light from the electric street lamps shone palely here and there onto the ceiling and tops of the furniture, but down below, where Gregor was, it was dark. He pushed himself over to the door, feeling his way clumsily with his antennae - of which he was now beginning to learn the value - in order to see what had been happening there. The whole of his left side seemed like one, painfully stretched scar, and he limped badly on his two rows of legs. One of the legs had been badly injured in the events of that morning - it was nearly a miracle that only one of them had been - and dragged along lifelessly.",
    :keywords #{},
@@ -1013,7 +1013,7 @@
  {:details
   {:spoken_languages ["English"],
    :release_date "2011-01-04",
-   :genres #{},
+   :genres #{"Family"},
    :overview
    "Now Gregor's sister also had to help his mother with the cooking; although that was not so much bother as no-one ate very much. Gregor often heard how one of them would unsuccessfully urge another to eat, and receive no more answer than \"no thanks, I've had enough\" or something similar. No-one drank very much either. His sister would sometimes ask his father whether he would like a beer, hoping for the chance to go and fetch it herself. When his father then said nothing she would add, so that he would not feel selfish, that she could send the housekeeper for it, but then his father would close the matter with a big, loud \"No\", and no more would be said.",
    :keywords #{},
