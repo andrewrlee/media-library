@@ -12962,7 +12962,7 @@ function Tp(a) {
     };
   }(b));
 }
-fo.k("/data", J([new r(null, 1, [ql, function(a) {
+fo.k("data", J([new r(null, 1, [ql, function(a) {
   a = Wm(new Fm(a, [], -1), !1, null);
   Qp(a);
   Rp(a);
