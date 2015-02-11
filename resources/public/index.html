@@ -1,0 +1,31 @@
+<html>
+  <head>
+    <link href="style/main.css" rel="stylesheet" type="text/css">
+    <link href='http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css' rel='stylesheet' type='text/css'>
+    <title>Media Library</title>
+  </head>
+  <body>
+    <div id="holder">
+      <div id="body">
+         <div class="nav-bar">
+          <h1>Movies&nbsp;</h1>
+          <div id="item-count-area">(<span id="item-count"></span> Items)</div>
+          <div class="nav-bar-right">
+            <div id="search-bar">
+              <input id="search-field" type="text" placeholder="Search... ">
+              &nbsp;<span class="search-ico fa fa-search"></span></input></div>
+            <div id="genres">
+              <select id="genre-list"></select><span class="down-ico fa fa-arrow-down"></span>
+            </div>
+          </div>
+        </div>
+        <div id="movie-panel"></div> 
+        <br class="clear"/>    
+      </div>
+      <div id="footer">
+        <p class="attrib">This page uses the TMDb API but is not endorsed or certified by TMDb.</p>
+      </div>
+    </div>
+    <script type="text/javascript" src="/dist/movie.js"></script>
+  </body>
+</html>

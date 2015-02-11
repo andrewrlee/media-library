@@ -1,0 +1,6 @@
+{
+  :movie-db-api-key "<THE MOVIE DB API KEY"
+  :port             3000
+  :library-loc      "<ROOT DIR FOR LIBRARY"
+  :launch-command   ["vlc" "--fullscreen"]
+}
