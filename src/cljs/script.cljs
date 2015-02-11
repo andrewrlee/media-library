@@ -49,8 +49,9 @@
       (doseq [button (array-seq (dom/getElementsByClass "play-button"))]
         (events/listen button "click" #(GET (str "/play" (.getAttribute button "data-path"))))))))
 
-(defn show-series-details [series]
+(defn show-series-details [dialog series]
   (let [element (dom/getElement "series-select")]
+    (.setButtonSet dialog nil)
     (render-series (first series))
     (events/listen element "change" (fn [event] (render-series (get-chosen-option event series))))))
 
@@ -71,7 +72,7 @@
       (.setDraggable dialog false)
       (events/listen dialog "afterhide" #(.dispose dialog))
       (if (:series item)
-        (show-series-details (:series item))
+        (show-series-details dialog (:series item))
         (show-film-details   dialog file-path)))))
    
 (defn render-movie [[file-path {:keys [details]} :as item]] 
