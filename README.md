@@ -10,6 +10,7 @@ I've published an example of the application on gh-pages using some fake data (T
 
 This example app an be seen [here](http://optimisticpanda.co.uk/media-library/).
 
+(The actual code itself is quite rough/lame)
 ## Installation
 
 Build the web-server by running: 
