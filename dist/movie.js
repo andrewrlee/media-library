@@ -12900,7 +12900,7 @@ function Op(a) {
 function Pp(a) {
   N.g(a, 0, null);
   var b = N.g(a, 1, null), b = Yf(b) ? R.a(Gi, b) : b, c = P.a(b, al), b = document.createElement("DIV"), d = document.createElement("IMG"), e = Xg.a(c, new T(null, 2, 5, U, [tl, ok], null)), c = Yf(c) ? R.a(Gi, c) : c, c = P.a(c, Tk);
-  return s(e) ? (b.classList.add("movie"), b.appendChild(d), d.src = "/images" + z.e(e), d.setAttribute("data-title", c), vc(b, "click", Op(a)), b) : null;
+  return s(e) ? (b.classList.add("movie"), b.appendChild(d), d.src = "images" + z.e(e), d.setAttribute("data-title", c), vc(b, "click", Op(a)), b) : null;
 }
 function Qp(a) {
   var b = Kb(document, "movie-panel"), c = Kb(document, "item-count");
