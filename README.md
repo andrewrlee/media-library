@@ -1,14 +1,14 @@
 # Media Library
 
-After digitizing all of my Dvd collection, I wanted to have a way to browse these files in a nice way. Rather than use an opensource program like xbmc or Plex I decided to write my own - partly so I could get a bit more experience in writing clojure and clojurescript programs.
+After digitizing most of my DVD collection, I wanted to have a way to browse these files in a nice way. Rather than use an open source program like [xbmc](http://www.raspbmc.com/) or [Plex](https://plex.tv/), I decided to write my own - mostly so I could get a bit more experience in writing clojure and clojurescript programs.
 
-The system consists of two parts - one is a CLI program that scans a folder structure and then queries [The Movie Database API](http://docs.themoviedb.apiary.io/) to retrieve the metadata for each film and build up a library `data.edn` file. It also downloads the associated poster image and resizes it to the correct size.
+The system consists of two parts - one is a CLI program that scans a folder structure and then queries [The Movie Database API](http://docs.themoviedb.apiary.io/) to retrieve the metadata for each film and build up a library `data.edn` file. It also downloads the associated poster image for each file and resizes it to the correct size.
 
 The other part is an embedded web-server that hosts static resources that parse the library file and display the collection - allowing the user to search, filter and launch content. When a request to launch content is made the server will shell out to a video player on the server and launch the video in fullscreen. As the content is not streamed, then it requires the computer running the webserver to have a head - which is fine given my living room setup :-).
 
-I've published an example of the application on gh-pages using some fake data (obviously launching videos doesn't work as there is no serverside component running)
+I've published an example of the application on gh-pages using some fake data (This is fully functional barring the fact that obviously launching videos doesn't work as there is no serverside component running!)
 
-This example can be seen [here](http://optimisticpanda.co.uk/media-library/)
+This example app an be seen [here](http://optimisticpanda.co.uk/media-library/)
 
 ## Installation
 
