@@ -22,7 +22,7 @@ Create an account and create an api key from [The Movie Database API](https://ww
 {
   :movie-db-api-key "${PERSONAL MOVIE DB API KEY}"
   :port             3000
-  :library-loc      "<ROOT DIR FOR LIBRARY"
+  :library-loc      "<ROOT DIR FOR LIBRARY>"
   :launch-command   ["vlc" "--fullscreen"]
 }
 ```
