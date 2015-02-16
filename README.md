@@ -8,7 +8,7 @@ The other part is an embedded web-server that hosts static resources that parse 
 
 I've published an example of the application on gh-pages using some fake data (This is fully functional barring the fact that obviously launching videos doesn't work as there is no serverside component running!)
 
-This example app an be seen [here](http://optimisticpanda.co.uk/media-library/).
+This example app can be seen [here](http://optimisticpanda.co.uk/media-library/).
 
 ## Installation
 
