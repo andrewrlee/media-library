@@ -15,7 +15,7 @@
                  [image-resizer "0.1.6"]]
   :source-paths  ["src/clj"]         
   :plugins [[lein-environ "0.5.0"]]
-  :main ^:skip-aot media-library.serve
+  :main ^:skip-aot media-library.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}
              :dev {:dependencies [[org.clojure/clojurescript "0.0-2268"]]

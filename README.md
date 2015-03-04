@@ -60,17 +60,21 @@ Individual episodes of a show need to be listed in:
 
 ## Usage
 
-The library-builder is currently only available via the repl and be launched by running the following main function:
+The `data.edn` library file can be created (or new items added to it) with the following command:
 	
-> media-library.build > (-main)  
+>    $ java -jar movie-details-grab-0.1.0-standalone.jar build
 
 Once the `data.edn` file has been generated, run the web-server with the following command:
 
->    $ java -jar movie-details-grab-0.1.0-standalone.jar 
+>    $ java -jar movie-details-grab-0.1.0-standalone.jar serve
+
+## Bugs
+
+Layout is not responsive and looks a bit rubbish on small resolutions... as this runs on my living room big tv it's not something I'm prioritising :-)
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 AL
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
